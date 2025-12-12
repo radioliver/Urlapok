@@ -110,4 +110,15 @@ code {
     border-radius: 5px;
     min-height: 20px;
 }
+#nevEredmeny.hiba {
+    color: #7d2e2e;
+    font-weight: bold;
+    margin: 8px 0;
+    padding: 10px;
+    min-height: 25px;
+    display: block;
+    background-color: #c59494;
+    border-left: 4px solid #af4c4c;
+    border-radius: 4px;
+}
 
